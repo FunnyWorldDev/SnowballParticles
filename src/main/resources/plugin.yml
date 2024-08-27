@@ -1,0 +1,4 @@
+name: SnowballParticles
+version: '${project.version}'
+main: com.oftx.snowballparticles.SnowballParticles
+api-version: '1.20'
